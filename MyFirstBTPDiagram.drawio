@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2024-06-05T09:48:37.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TcFwLEODzxXIU9aKb2XJ" version="24.4.13" type="github">
+  <diagram name="Seite-1" id="j04NQ1fl6TRUzTMHqHyo">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="12zFgD0p8ABHR2MukLQv-1" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGlkPSJhZ2VudHJ5IiB2aWV3Qm94PSIxMi45OTg3ODAyNTA1NDkzMTYgMy45OTk3ODQ3MDgwMjMwNzEzIDMwLjAwMjM0NjAzODgxODM2IDQ4LjAwMDUzNDA1NzYxNzE5IiB3aWR0aD0iMzAuMDAyMzQ2MDM4ODE4MzYiIGhlaWdodD0iNDguMDAwNTM0MDU3NjE3MTkiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDojMDUzYjcwO30uY2xzLTJ7ZmlsbDojMGE2ZWQxO308L3N0eWxlPjwvZGVmcz48dGl0bGU+YWdlbnRyeTwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzcsNGE1Ljc4LDUuNzgsMCwwLDEsNC4yMTksMS43ODFBNS43OCw1Ljc4LDAsMCwxLDQzLDEwVjQ2YTUuNzI5LDUuNzI5LDAsMCwxLTEuNzgxLDQuMjY2QTUuODYsNS44NiwwLDAsMSwzNyw1MkgxOWE1Ljg1MSw1Ljg1MSwwLDAsMS00LjIxOS0xLjczNEE1LjcxOCw1LjcxOCwwLDAsMSwxMyw0NlYxMGE1Ljc2OCw1Ljc2OCwwLDAsMSwxLjc4MS00LjIxOUE1Ljc3LDUuNzcsMCwwLDEsMTksNFptMyw2SDE2VjQzSDQwWk0yOCw0OWEyLjI2LDIuMjYsMCwwLDAsMS41OTQtLjYwOSwyLjEzNCwyLjEzNCwwLDAsMCwuNjU2LTEuNjQxLDIuMjUsMi4yNSwwLDEsMC00LjUsMCwyLjEyMywyLjEyMywwLDAsMCwuNjU2LDEuNjQxQTIuMjUsMi4yNSwwLDAsMCwyOCw0OVoiLz48cGF0aCBjbGFzcz0iY2xzLTIiIGQ9Ik0xOSwzNS4yMzMsMjYuMzg2LDE2aDIuNzQyTDM3LDM1LjIzM0gzNC4xbC0yLjI0NC01LjgyNUgyMy44MTVMMjEuNywzNS4yMzNabTUuNTUtNy45aDYuNTJsLTIuMDA3LTUuMzI2cS0uOTE5LTIuNDI4LTEuMzY1LTMuOTg5YTI0LjQ5MiwyNC40OTIsMCwwLDEtMS4wMzYsMy42NzRaIi8+PC9zdmc+;" parent="1" vertex="1">
+          <mxGeometry x="120" y="210" width="30" height="48" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
